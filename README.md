@@ -8,7 +8,7 @@
   <img height="115em" src="https://github-readme-stats.vercel.app/api?username=guiribeiroblue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Social media
+### Social media:
   
   <div>
   <a href="https://www.youtube.com/channel/UCiYPUkMOFS89gxJY4pBe4pw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
