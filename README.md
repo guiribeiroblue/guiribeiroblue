@@ -1,6 +1,6 @@
-### Olá, me chamo Blue Edtech 💙️👋
+### Hello, my name is Blue Edtech 💙️👋
 
-### Seja bem-vindo(a) ao meu perfil Github. 
+### Welcome to my Github profile!! 
 
 <div>
   <a href="https://github.com/guiribeiroblue">
