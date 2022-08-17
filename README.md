@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Blue Edtech</h1>
+<h1 align="center">Olá, 👋, Eu sou Blue Edtech</h1>
 <h3 align="center">Bem-vindos a Blue Edtech - Escola de programação</h3>
 
-- 🌱 I’m currently learning **Front-end, Back-end, Fullstack e Dados**
+- 🌱 Ofereço cursos nas seguintes áreas: **Front-end, Back-end, Fullstack e Dados**
 
-- 💬 Ask me about **Blue Edtech - Escolha de programação**
+- 💬 O que sou? **Escola de programação**
 
-- 📫 How to reach me **blueedtech@blueedtech.com.br**
+- 📫 Para entrar em contato: **blueedtech@blueedtech.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
