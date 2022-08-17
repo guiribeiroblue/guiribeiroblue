@@ -1,5 +1,4 @@
 <h1 align="center">Olá, 👋, Eu sou Blue Edtech</h1>
-<h3 align="center">Bem-vindos a Blue Edtech - Escola de programação</h3>
 
 - 🌱 Ofereço cursos nas seguintes áreas: **Front-end, Back-end, Fullstack e Dados**
 
