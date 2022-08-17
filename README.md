@@ -1,4 +1,6 @@
-<h1 align="center">Olá, 👋, Eu sou Blue Edtech</h1>
+<h1 align="center">Olá👋, Eu sou a Blue Edtech 💙️</h1>
+
+### Welcome to my Github profile!! 
 
 - 🌱 Ofereço cursos nas seguintes áreas: **Front-end, Back-end, Fullstack e Dados**
 
